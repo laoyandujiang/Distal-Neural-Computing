@@ -1,4 +1,4 @@
 # Distal-Neural-Computing
 A low-light imaging framework named Distal Neural Computing, which end-to-end optimizes the optical lens (Optical Neural Network) and digital post-processing model (Deep Learning Network).
 
-This paper is currently under review. The code used in this work is promised to be released in this repository after this paper is published.
+This work is currently under review. The code is promised to be released at this repository after this work is published.
